@@ -42,7 +42,7 @@ This project is centered around Finance Analytics and Report Generation, focusin
 |   |-- get_fiscal_quarter.txt
 |
 ```
-###|-- /views
+###**|-- /views**
 
 ```
 |   |-- gross_sales_view.txt
