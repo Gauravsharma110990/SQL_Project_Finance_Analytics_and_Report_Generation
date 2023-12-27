@@ -27,13 +27,14 @@ Project Structure
 
 |   |-- top_n_products_per_division_qty_sold.csv
 ```
+```
 |-- /user_defined_functions
 
 |   |-- get_fiscal_year.txt
 
 |   |-- get_fiscal_quarter.txt
-
 |
+```
 |-- /views
 
 |   |-- gross_sales_view.txt
@@ -45,6 +46,7 @@ Project Structure
 |   |-- sales_preinv_discount_view.txt
 
 |
+```
 |-- /stored procedures
 
 |   |-- get_forecast_accuracy_sp.txt
@@ -64,9 +66,12 @@ Project Structure
 |   |-- top_n_products_by_netsales_sp.txt
 
 |
+```
+```
 |-- /Other Queries
 
 |   |-- Queries Utilizing Window Functions, CTEs
+```
 Usage
 **1. Report Generation: **
 
