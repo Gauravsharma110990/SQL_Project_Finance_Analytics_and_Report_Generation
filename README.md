@@ -4,7 +4,7 @@
 
 This project is centered around Finance Analytics and Report Generation, focusing on delivering efficient and tailored reporting solutions to facilitate crucial decision-making. The implementation involves SQL, incorporating stored procedures, user-defined functions, and query optimization for a streamlined process.
 
-##Key Features
+##**Key Features**
 
 **Tailored Reports: ** Generate customized reports using input parameters like in_fiscal_year, in_top_n, and customer_code.
 
@@ -12,9 +12,9 @@ This project is centered around Finance Analytics and Report Generation, focusin
 
 **User-Friendly Design: ** Prioritizing readability and simplicity in complex queries for easy comprehension.
 
-##Project Structure
+##**Project Structure**
 
-###|-- /reports
+###**|-- /reports**
 
 ```
 
@@ -33,7 +33,7 @@ This project is centered around Finance Analytics and Report Generation, focusin
 |   |-- top_n_products_per_division_qty_sold.csv
 ```
 
-###|-- /user_defined_functions
+###**|-- /user_defined_functions**
 
 ```
 
